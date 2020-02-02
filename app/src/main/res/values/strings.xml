@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Гомель FM</string>
+    <string name="radio_url">http://s1.radioheart.ru:8001/radiogomelfm</string>>
+    <string name="logo">Gomel FM logo</string>
+</resources>
